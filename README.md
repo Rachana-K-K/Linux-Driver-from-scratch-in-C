@@ -11,3 +11,7 @@ Contents
 Why this device - Configurable OS and sufficient GPIO pins
 
 # Setting up the board
+sudo apt update && sudo apt upgrade -y
+sudo apt install -y raspberrypi-kernel-headers
+sudo apt install -y build essential
+sudo reboot
