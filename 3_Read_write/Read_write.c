@@ -7,7 +7,7 @@
 /* Meta Information */
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Rachana K Kulkarni");
-MODULE_DESCRIPTION("Registers a device nr. and implement some callback functions");
+MODULE_DESCRIPTION("Reads/Writes data in/out of buffer");
 
 /* Buffer for data */
 static char buffer[255];
